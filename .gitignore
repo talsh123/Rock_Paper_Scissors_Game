@@ -1,0 +1,5 @@
+## ignore ALL .log files
+*Debug/
+*.Rock_Paper_Scissors_Game.vcxproj
+*.Rock_Paper_Scissors_Game.vcxproj.filters
+*.Rock_Paper_Scissors_Game.vcxproj.user

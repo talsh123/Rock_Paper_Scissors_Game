@@ -1,0 +1,5 @@
+﻿  322356346_318724259.c
+C:\Users\talsh\Desktop\Files\Electrical Engineering Degree - HiT Institute of Technology\Year 2\תכנות C\מטלות\Project\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\322356346_318724259.c(53,5): warning C4033: 'convertFromDigitToChar' must return a value
+C:\Users\talsh\Desktop\Files\Electrical Engineering Degree - HiT Institute of Technology\Year 2\תכנות C\מטלות\Project\Rock_Paper_Scissors_Game\Rock_Paper_Scissors_Game\322356346_318724259.c(54): warning C4715: 'convertFromDigitToChar': not all control paths return a value
+  LINK : C:\Users\talsh\Desktop\Files\Electrical Engineering Degree - HiT Institute of Technology\Year 2\תכנות C\מטלות\Project\Rock_Paper_Scissors_Game\Debug\Rock_Paper_Scissors_Game.exe not found or not built by the last incremental link; performing full link
+  Rock_Paper_Scissors_Game.vcxproj -> C:\Users\talsh\Desktop\Files\Electrical Engineering Degree - HiT Institute of Technology\Year 2\תכנות C\מטלות\Project\Rock_Paper_Scissors_Game\Debug\Rock_Paper_Scissors_Game.exe
